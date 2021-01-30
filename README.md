@@ -25,6 +25,8 @@ Visit [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-fire
 
 Click Reat temporary addon button.
 
+Select 'path/to/manifest.json'
+
 ### Download firefox addons page
 
 comming soon...
