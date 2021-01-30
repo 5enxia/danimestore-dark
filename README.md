@@ -20,7 +20,7 @@ inspired by [niconico darkmode](https://addons.mozilla.org/ja/firefox/addon/nico
 
 Add stylus addon your browser.
 
-Install [danime-dark.user.css](https://raw.githubusercontent.com/5enxia/danimestore-dark/master/danime-dark.user.css)
+Install [danime-dark.user.css](https://raw.githubusercontent.com/5enxia/danimestore-dark/main/danime-dark.user.css)
 
 [About stylus](https://github.com/openstyles/stylus/wiki/Writing-styles)
 
