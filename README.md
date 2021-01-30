@@ -1,4 +1,5 @@
 # danimestore-dark
+
 danimestore dark theme
 This project's goal is expantioning 'premire black' theme.
 This addon overwrite non dark components of 'premire balck' theme.
