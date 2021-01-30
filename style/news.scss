@@ -1,0 +1,34 @@
+@import 'color.scss';
+
+.newsWrapper .newsModule {
+  background: $bg-color;
+}
+
+.btnArea .btnList {
+  background: $bg-color;
+}
+
+.newsMenuWrapper .btnArea > .btnList.selected {
+  background: $bg-color;
+}
+
+.newsMenuWrapper .btnArea .minict_wrapper span {
+  background: $input-bg-color;
+}
+
+.minict_wrapper ul li {
+  color: $text-color;
+  background: $bg-color;
+}
+
+.paging .btnPagingTop, .paging .btnPagingBottom {
+  background: $input-bg-color;
+}
+
+.paging .btnPagingPrev, .paging .btnPagingNext {
+  background: $input-bg-color;
+}
+
+html.inquiry\.css .minict_wrapper, html.news\.css .minict_wrapper ul li, html.news\.css .minict_wrapper ul li {
+  color: $text-color;
+}

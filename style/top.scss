@@ -1,0 +1,96 @@
+@import 'color.scss';
+
+.line1 span {
+    background: $bg-color;
+}
+
+.headerInformation .btnInformation a:link, html.mouseDevice .headerInformation .btnInformation a:hover, .headerInformation .btnInformation a:visited, html.mouseDevice .headerInformation .btnInformation a:active {
+    color: $link-text-color;
+}
+
+// header
+.pageHeader.second {
+    background: $bg-color;
+}
+
+.announceArea {
+    background: $bg-color;
+}
+
+.dAccountHeaderIn .daccountIcon {
+    background-color: $d-account-icon-bg-color;
+}
+
+.dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {
+    background-color: $bg-color;
+}
+
+.dPointHeaderMenu .dpointArea {
+    background-color: $bg-color;
+}
+
+// footer
+.pageFooter {
+    background: $bg-color;
+}
+
+.footerPageTop {
+    background: $bg-color;
+}
+
+.pageFooterIn {
+    .footerJasrac {
+        background: $bg-color;
+    }
+
+    .footerMenu li a {
+        background: $bg-color;
+    }
+
+    .footerMenu2 {
+        background: $bg-color;
+    }
+
+    .footerBottomMenu .footerDmenuWrapper {
+        background: $bg-color;
+
+        .footerDMenu li {
+            background: $bg-color;
+        }
+    }
+}
+
+.footerCopyright {
+    color: $text-color;
+    background: $bg-color;
+}
+
+// main
+.onAirWrapper .onAirSwiper .itemWrapper .itemModule {
+    background: $bg-color;
+}
+
+.itemWrapper .itemModule {
+    background: $bg-color;
+}
+
+.informationWrapper {
+    background: $bg-color;
+}
+
+.goodsWrapper__Item {
+    background: $bg-color;
+}
+
+html.toppage\.css .bannerWrapper {
+    background: $bg-color;
+}
+
+
+// tooltip
+.ui-tooltip{
+    .ui-tooltip-content {
+        color: $text-color;
+        background: $bg-color;
+    }
+}

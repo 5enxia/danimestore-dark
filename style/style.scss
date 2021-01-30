@@ -1,0 +1,20 @@
+@import 'top.scss';
+@import 'news.scss';
+@import 'search.scss';
+@import 'work.scss';
+@import 'mypage.scss';
+@import 'ec.scss';
+
+html {
+  background-color: $bg-color;
+}
+
+// global
+body {
+    color: $text-color;
+    background: $bg-color;
+}
+
+a:link, a:active, a:visited {
+    color: $link-text-color;
+}

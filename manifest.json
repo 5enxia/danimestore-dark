@@ -1,0 +1,15 @@
+{
+
+  "manifest_version": 2,
+  "name": "danimestore dark",
+  "version": "1.0",
+
+  "description": "d animestore dark theme.This addons goal is expantioning 'premire black' theme.This addon overwrite non dark components.d animestore has various 'kisekae' theme. ('kisekae' theme means custom theme in japanese''premire black' is official dark theme.But some components of the theme are not dark.Therefore, I made this addon.",
+
+  "content_scripts": [
+    {
+      "matches": ["https://anime.dmkt-sp.jp/*"],
+      "css": ["style/style.css"]
+    }
+  ]
+}

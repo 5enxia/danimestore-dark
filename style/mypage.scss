@@ -1,0 +1,31 @@
+@import 'color.scss';
+
+.headerSubTab ul li {
+  background: $bg-color;
+}
+
+.itemWrapper .itemModule.list {
+  section {
+    background: $bg-color;
+  }
+
+  header { 
+    background: $bg-color;
+  }
+}
+
+.paging {
+  background: $input-bg-color;
+}
+
+.createMyListDialog .createMyList, .itemWrapper .itemModule.mylist.add .createMyList {
+    background: $input-bg-color;
+}
+
+.btnArea.all .btnList {
+  background: $input-bg-color;
+}
+
+.btnArea .btnList a:link, html.mouseDevice .btnArea .btnList a:hover, .btnArea .btnList a:visited, html.mouseDevice .btnArea .btnList a:active {
+  color: $link-text-color;
+}

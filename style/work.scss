@@ -1,0 +1,63 @@
+@import 'color.scss';
+
+.productWrapper {
+  background: $bg-color;
+
+  h1 {
+    background: $bg-color;
+  }
+
+  ul.optionIconContainer {
+    background: $bg-color;
+  }
+
+  .information .actionArea {
+    background: $bg-color;
+  }
+}
+
+.pageHeaderSub .breadcrumbPC {
+  background: $bg-color;
+}
+
+html.item\.css .productWrapper {
+  background: $bg-color;
+}
+
+
+.episodeWrapper .itemWrapper .itemModule a.watched {
+  color: $link-text-color;
+  background-color: $bg-color;
+}
+
+html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:hover, html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:active, .pageHeaderSub .breadcrumbPC ul li.current, .pageHeaderSub .breadcrumbPC ul li.current a {
+  color: $text-color;
+}
+
+.episodeWrapper section h2 a, .outlineWrapper section h2 a, .castWrapper section h2 a {
+  color: $text-color;
+  background: $bg-color;
+}
+
+.outlineWrapper, .castWrapper {
+  background: $bg-color;
+}
+
+.tagWrapper li {
+  background: $bg-color;
+}
+
+// movie modal 
+.moviePlayerModal  {
+  .moviePlayerModalIn {
+    background: $bg-color;
+  }
+
+  .tumbnailContentsWrapper .tumbnailContainer {
+    background: #000;
+  }
+}
+
+html.toppage\.css .pageHeader.top, html.toppage\.css .pageHeader.top .pageHeaderIn, html.toppage\.css .pageHeader.top .pageHeaderIn .information p.status, html.toppage\.css .onAirWrapper, .informationWrapper, .contentsWrapper#newArrival, .contentsWrapper#ranking, .contentsWrapper#recommend, .contentsWrapper#rental, .contentsWrapper#event1, .contentsWrapper#event2, .contentsWrapper#event3, .contentsWrapper#event4, .contentsWrapper.goodsTopWrapper, .contentsWrapper#song, .contentsWrapper#goods, .contentsWrapper#seriesRelated, .contentsWrapper#pvClip, .contentsWrapper#popular, html.mypage\.css .dmarketWrapper {
+  background: $bg-color;
+}
