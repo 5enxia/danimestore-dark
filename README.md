@@ -5,7 +5,7 @@ This addon overwrite non dark components of 'premire balck' theme.
 
 d animestore has various 'kisekae' theme.
 'premire black' theme is official dark theme.
-But some components of the theme are not dark.Therefore, I made this addon.,
+But some components of the theme are not dark.Therefore, I made this addon.
 
 'kisekae' theme means custom theme in japanese.
 
@@ -18,6 +18,7 @@ inspired by [niconico darkmode](https://addons.mozilla.org/ja/firefox/addon/nico
 ### stylus
 
 Add stylus addon your browser.
+
 import 'stylus/danime-dark.stylus' on your stylus.
 
 [About stylus](https://github.com/openstyles/stylus/wiki/Writing-styles)
