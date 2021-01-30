@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name         danimestore dark
+@namespace    github.com/5enxia/danimestore-dark
+@homepageURL  https://github.com/5enxia/danimestore-dark
+@version      0.1.0
+@license      MIT License
+@author       5enxia
+@preprocessor default
+==/UserStyle== */
+
 @-moz-document url-prefix("https://anime.dmkt-sp.jp/animestore/") {
   .line1 span {
     background: #000;
