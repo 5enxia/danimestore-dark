@@ -1,5 +1,4 @@
 # style
-*.css
 *.css.map
 .sass-cache
 *.zip

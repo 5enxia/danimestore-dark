@@ -1,0 +1,190 @@
+.line1 span {
+  background: #000; }
+
+.headerInformation .btnInformation a:link, html.mouseDevice .headerInformation .btnInformation a:hover, .headerInformation .btnInformation a:visited, html.mouseDevice .headerInformation .btnInformation a:active {
+  color: #fff; }
+
+.pageHeader.second {
+  background: #000; }
+
+.announceArea {
+  background: #000; }
+
+.dAccountHeaderIn .daccountIcon {
+  background-color: #fff; }
+
+.dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {
+  background-color: #000; }
+
+.dPointHeaderMenu .dpointArea {
+  background-color: #000; }
+
+.pageFooter {
+  background: #000; }
+
+.footerPageTop {
+  background: #000; }
+
+.pageFooterIn .footerJasrac {
+  background: #000; }
+.pageFooterIn .footerMenu li a {
+  background: #000; }
+.pageFooterIn .footerMenu2 {
+  background: #000; }
+.pageFooterIn .footerBottomMenu .footerDmenuWrapper {
+  background: #000; }
+  .pageFooterIn .footerBottomMenu .footerDmenuWrapper .footerDMenu li {
+    background: #000; }
+
+.footerCopyright {
+  color: #fff;
+  background: #000; }
+
+.onAirWrapper .onAirSwiper .itemWrapper .itemModule {
+  background: #000; }
+
+.itemWrapper .itemModule {
+  background: #000; }
+
+.informationWrapper {
+  background: #000; }
+
+.goodsWrapper__Item {
+  background: #000; }
+
+html.toppage\.css .bannerWrapper {
+  background: #000; }
+
+.ui-tooltip .ui-tooltip-content {
+  color: #fff;
+  background: #000; }
+
+.newsWrapper .newsModule {
+  background: #000; }
+
+.btnArea .btnList {
+  background: #000; }
+
+.newsMenuWrapper .btnArea > .btnList.selected {
+  background: #000; }
+
+.newsMenuWrapper .btnArea .minict_wrapper span {
+  background: #000; }
+
+.minict_wrapper ul li {
+  color: #fff;
+  background: #000; }
+
+.paging .btnPagingTop, .paging .btnPagingBottom {
+  background: #000; }
+
+.paging .btnPagingPrev, .paging .btnPagingNext {
+  background: #000; }
+
+html.inquiry\.css .minict_wrapper, html.news\.css .minict_wrapper ul li, html.news\.css .minict_wrapper ul li {
+  color: #fff; }
+
+.pageHeaderSub .pageHeaderIn {
+  background: #000; }
+  .pageHeaderSub .pageHeaderIn h1 {
+    color: #fff; }
+
+.searchWrapper {
+  background: #000; }
+  .searchWrapper .btnSearch {
+    background: #000; }
+
+body, button, input, textarea {
+  color: #fff; }
+
+.listGroup li a {
+  background: #000; }
+
+.searchBtnGroup li {
+  background: #000; }
+  .searchBtnGroup li a {
+    color: #fff; }
+
+.ui-widget-content {
+  background: #000; }
+
+.ui-menu .ui-menu-item a {
+  background: #000; }
+
+.productWrapper {
+  background: #000; }
+  .productWrapper h1 {
+    background: #000; }
+  .productWrapper ul.optionIconContainer {
+    background: #000; }
+  .productWrapper .information .actionArea {
+    background: #000; }
+
+.pageHeaderSub .breadcrumbPC {
+  background: #000; }
+
+html.item\.css .productWrapper {
+  background: #000; }
+
+.episodeWrapper .itemWrapper .itemModule a.watched {
+  color: #fff;
+  background-color: #000; }
+
+html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:hover, html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:active, .pageHeaderSub .breadcrumbPC ul li.current, .pageHeaderSub .breadcrumbPC ul li.current a {
+  color: #fff; }
+
+.episodeWrapper section h2 a, .outlineWrapper section h2 a, .castWrapper section h2 a {
+  color: #fff;
+  background: #000; }
+
+.outlineWrapper, .castWrapper {
+  background: #000; }
+
+.tagWrapper li {
+  background: #000; }
+
+.moviePlayerModal .moviePlayerModalIn {
+  background: #000; }
+.moviePlayerModal .tumbnailContentsWrapper .tumbnailContainer {
+  background: #000; }
+
+html.toppage\.css .pageHeader.top, html.toppage\.css .pageHeader.top .pageHeaderIn, html.toppage\.css .pageHeader.top .pageHeaderIn .information p.status, html.toppage\.css .onAirWrapper, .informationWrapper, .contentsWrapper#newArrival, .contentsWrapper#ranking, .contentsWrapper#recommend, .contentsWrapper#rental, .contentsWrapper#event1, .contentsWrapper#event2, .contentsWrapper#event3, .contentsWrapper#event4, .contentsWrapper.goodsTopWrapper, .contentsWrapper#song, .contentsWrapper#goods, .contentsWrapper#seriesRelated, .contentsWrapper#pvClip, .contentsWrapper#popular, html.mypage\.css .dmarketWrapper {
+  background: #000; }
+
+.headerSubTab ul li {
+  background: #000; }
+
+.itemWrapper .itemModule.list section {
+  background: #000; }
+.itemWrapper .itemModule.list header {
+  background: #000; }
+
+.paging {
+  background: #000; }
+
+.createMyListDialog .createMyList, .itemWrapper .itemModule.mylist.add .createMyList {
+  background: #000; }
+
+.btnArea.all .btnList {
+  background: #000; }
+
+.btnArea .btnList a:link, html.mouseDevice .btnArea .btnList a:hover, .btnArea .btnList a:visited, html.mouseDevice .btnArea .btnList a:active {
+  color: #fff; }
+
+.pageHeaderSub .searchWrapper {
+  background: #000; }
+
+.headerInformation--goodsTop {
+  background: #000; }
+
+html {
+  background-color: #000; }
+
+body {
+  color: #fff;
+  background: #000; }
+
+a:link, a:active, a:visited {
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */
