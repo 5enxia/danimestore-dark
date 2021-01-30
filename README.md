@@ -13,7 +13,14 @@ inspired by [niconico darkmode](https://addons.mozilla.org/ja/firefox/addon/nico
 
 ## usage
 
-2 download option
+3 download option
+
+### stylus
+
+Add stylus addon your browser.
+import 'stylus/danime-dark.stylus' on your stylus.
+
+[About stylus](https://github.com/openstyles/stylus/wiki/Writing-styles)
 
 ### Download from here
 
@@ -32,4 +39,5 @@ Select 'path/to/manifest.json'
 comming soon...
 
 ## LICENSE
+
 MIT
