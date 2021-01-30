@@ -22,10 +22,28 @@
     background: $input-bg-color;
 }
 
+html.mouseDevice .itemWrapper .itemModule.mylist.add a:hover {
+  background-color: #666;
+}
+
 .btnArea.all .btnList {
   background: $input-bg-color;
 }
 
 .btnArea .btnList a:link, html.mouseDevice .btnArea .btnList a:hover, .btnArea .btnList a:visited, html.mouseDevice .btnArea .btnList a:active {
   color: $link-text-color;
+}
+
+.itemWrapper .itemModule.list, .itemWrapper .itemModule.mylist {
+  border: 1px solid #666;
+}
+
+// hover
+html.mouseDevice .headerSubTab ul li a:hover {
+  color: $text-color;
+  background: $hover-bg-color;
+}
+
+html.mouseDevice .headerSubTab ul li.current a:hover {
+  background: $hover-bg-color;
 }

@@ -61,3 +61,9 @@ html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:hover, html.mouseD
 html.toppage\.css .pageHeader.top, html.toppage\.css .pageHeader.top .pageHeaderIn, html.toppage\.css .pageHeader.top .pageHeaderIn .information p.status, html.toppage\.css .onAirWrapper, .informationWrapper, .contentsWrapper#newArrival, .contentsWrapper#ranking, .contentsWrapper#recommend, .contentsWrapper#rental, .contentsWrapper#event1, .contentsWrapper#event2, .contentsWrapper#event3, .contentsWrapper#event4, .contentsWrapper.goodsTopWrapper, .contentsWrapper#song, .contentsWrapper#goods, .contentsWrapper#seriesRelated, .contentsWrapper#pvClip, .contentsWrapper#popular, html.mypage\.css .dmarketWrapper {
   background: $bg-color;
 }
+
+// hover
+html.mouseDevice .episodeWrapper section h2 a:hover, html.mouseDevice .outlineWrapper section h2 a:hover, html.mouseDevice .castWrapper section h2 a:hover {
+  color: $text-color;
+  background: $hover-bg-color;
+}

@@ -12,9 +12,18 @@ html {
 // global
 body {
     color: $text-color;
-    background: $bg-color;
+    background: $bg-color !important;
 }
 
 a:link, a:active, a:visited {
     color: $link-text-color;
+}
+
+img {
+  opacity: 0.8 !important;
+}
+
+.contentsWrapper {
+  background: $bg-color;
+  border: none;
 }

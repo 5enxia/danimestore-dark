@@ -32,3 +32,12 @@
 html.inquiry\.css .minict_wrapper, html.news\.css .minict_wrapper ul li, html.news\.css .minict_wrapper ul li {
   color: $text-color;
 }
+
+// hover
+html.mouseDevice .newsMenuWrapper .btnArea > .btnList a:hover {
+  background: $hover-bg-color;
+}
+html.mouseDevice .minict_wrapper ul li:hover {
+  color: #fff;
+  background: $hover-bg-color;
+}

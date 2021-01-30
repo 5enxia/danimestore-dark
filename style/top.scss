@@ -94,3 +94,8 @@ html.toppage\.css .bannerWrapper {
         background: $bg-color;
     }
 }
+
+// hover
+html.mouseDevice .headerInformation .btnInformation a:hover {
+    background: $hover-bg-color;
+}

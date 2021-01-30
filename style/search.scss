@@ -8,7 +8,7 @@
   }
 }
 .searchWrapper {
-  background: $input-bg-color;
+  background: $hover-bg-color;
   
   .btnSearch {
     background: $input-bg-color;
@@ -35,4 +35,14 @@ body, button, input, textarea {
 }
 .ui-menu .ui-menu-item a {
   background: $input-bg-color;
+}
+
+// hover
+html.mouseDevice .listGroup li a:hover {
+  background: $hover-bg-color;
+}
+
+html.mouseDevice .searchBtnGroup li a:hover {
+  color: $text-color;
+  background: $hover-bg-color;
 }
