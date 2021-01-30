@@ -21,7 +21,7 @@ inspired by [niconico darkmode](https://addons.mozilla.org/ja/firefox/addon/nico
 git clone https://github.com/5enxia/danimestore-dark.git
 ```
 
-Visit [addon config page](about:debugging#/runtime/this-firefox)
+Visit [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 
 Click Reat temporary addon button.
 
