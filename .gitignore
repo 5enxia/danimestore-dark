@@ -2,3 +2,5 @@
 *.css.map
 .sass-cache
 *.zip
+*.meta
+*.sh

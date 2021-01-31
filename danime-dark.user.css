@@ -2,7 +2,7 @@
 @name         danimestore dark
 @namespace    github.com/5enxia/danimestore-dark
 @homepageURL  https://github.com/5enxia/danimestore-dark
-@version      0.1.0
+@version      0.1.1
 @license      MIT License
 @author       5enxia
 @preprocessor stylus
@@ -10,247 +10,235 @@
 
 @-moz-document url-prefix("https://anime.dmkt-sp.jp/animestore/") {
   .line1 span {
-    background: #000;
-  }
-  .headerInformation .btnInformation a:link,
-  html.mouseDevice .headerInformation .btnInformation a:hover,
-  .headerInformation .btnInformation a:visited,
-  html.mouseDevice .headerInformation .btnInformation a:active {
-    color: #fff;
-  }
+    background: #000; }
+  
+  .headerInformation .btnInformation a:link, html.mouseDevice .headerInformation .btnInformation a:hover, .headerInformation .btnInformation a:visited, html.mouseDevice .headerInformation .btnInformation a:active {
+    color: #fff; }
+  
   .pageHeader.second {
-    background: #000;
-  }
+    background: #000; }
+  
   .announceArea {
-    background: #000;
-  }
+    background: #000; }
+  
   .dAccountHeaderIn .daccountIcon {
-    background-color: #fff;
-  }
-  .dAccountHeaderIn .dAccountArea,
-  .dAccountHeaderIn .daccountText,
-  .dAccountHeaderIn .daccountUnissued,
-  .dAccountHeaderIn .daccountLogin {
-    background-color: #000;
-  }
+    background-color: #fff; }
+  
+  .dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {
+    background-color: #000; }
+  
   .dPointHeaderMenu .dpointArea {
-    background-color: #000;
-  }
+    background-color: #000; }
+  
   .pageFooter {
-    background: #000;
-  }
+    background: #000; }
+  
   .footerPageTop {
-    background: #000;
-  }
+    background: #000; }
+  
   .pageFooterIn .footerJasrac {
-    background: #000;
-  }
+    background: #000; }
   .pageFooterIn .footerMenu li a {
-    background: #000;
-  }
+    background: #000; }
   .pageFooterIn .footerMenu2 {
-    background: #000;
-  }
+    background: #000; }
   .pageFooterIn .footerBottomMenu .footerDmenuWrapper {
-    background: #000;
-  }
-  .pageFooterIn .footerBottomMenu .footerDmenuWrapper .footerDMenu li {
-    background: #000;
-  }
+    background: #000; }
+    .pageFooterIn .footerBottomMenu .footerDmenuWrapper .footerDMenu li {
+      background: #000; }
+  
   .footerCopyright {
     color: #fff;
-    background: #000;
-  }
+    background: #000; }
+  
   .onAirWrapper .onAirSwiper .itemWrapper .itemModule {
-    background: #000;
-  }
+    background: #000; }
+  
   .itemWrapper .itemModule {
-    background: #000;
-  }
+    background: #000; }
+  
   .informationWrapper {
-    background: #000;
-  }
+    background: #000; }
+  
   .goodsWrapper__Item {
-    background: #000;
-  }
-  html.toppage.css .bannerWrapper {
-    background: #000;
-  }
+    background: #000; }
+  
+  html.toppage\.css .bannerWrapper {
+    background: #000; }
+  
   .ui-tooltip .ui-tooltip-content {
     color: #fff;
-    background: #000;
-  }
+    background: #000; }
+  
+  html.mouseDevice .headerInformation .btnInformation a:hover {
+    background: #333; }
+  
   .newsWrapper .newsModule {
-    background: #000;
-  }
+    background: #000; }
+  
   .btnArea .btnList {
-    background: #000;
-  }
+    background: #000; }
+  
   .newsMenuWrapper .btnArea > .btnList.selected {
-    background: #000;
-  }
+    background: #000; }
+  
   .newsMenuWrapper .btnArea .minict_wrapper span {
-    background: #000;
-  }
+    background: #000; }
+  
   .minict_wrapper ul li {
     color: #fff;
-    background: #000;
-  }
-  .paging .btnPagingTop,
-  .paging .btnPagingBottom {
-    background: #000;
-  }
-  .paging .btnPagingPrev,
-  .paging .btnPagingNext {
-    background: #000;
-  }
-  html.inquiry.css .minict_wrapper,
-  html.news.css .minict_wrapper ul li {
+    background: #000; }
+  
+  .paging .btnPagingTop, .paging .btnPagingBottom {
+    background: #000; }
+  
+  .paging .btnPagingPrev, .paging .btnPagingNext {
+    background: #000; }
+  
+  html.inquiry\.css .minict_wrapper, html.news\.css .minict_wrapper ul li, html.news\.css .minict_wrapper ul li {
+    color: #fff; }
+  
+  html.mouseDevice .newsMenuWrapper .btnArea > .btnList a:hover {
+    background: #333; }
+  
+  html.mouseDevice .minict_wrapper ul li:hover {
     color: #fff;
-  }
+    background: #333; }
+  
   .pageHeaderSub .pageHeaderIn {
-    background: #000;
-  }
-  .pageHeaderSub .pageHeaderIn h1 {
-    color: #fff;
-  }
+    background: #000; }
+    .pageHeaderSub .pageHeaderIn h1 {
+      color: #fff; }
+  
   .searchWrapper {
-    background: #000;
-  }
-  .searchWrapper .btnSearch {
-    background: #000;
-  }
-  body,
-  button,
-  input,
-  textarea {
-    color: #fff;
-  }
+    background: #333; }
+    .searchWrapper .btnSearch {
+      background: #000; }
+  
+  body, button, input, textarea {
+    color: #fff; }
+  
   .listGroup li a {
-    background: #000;
-  }
+    background: #000; }
+  
   .searchBtnGroup li {
-    background: #000;
-  }
-  .searchBtnGroup li a {
-    color: #fff;
-  }
+    background: #000; }
+    .searchBtnGroup li a {
+      color: #fff; }
+  
   .ui-widget-content {
-    background: #000;
-  }
+    background: #000; }
+  
   .ui-menu .ui-menu-item a {
-    background: #000;
-  }
+    background: #000; }
+  
+  html.mouseDevice .listGroup li a:hover {
+    background: #333; }
+  
+  html.mouseDevice .searchBtnGroup li a:hover {
+    color: #fff;
+    background: #333; }
+  
   .productWrapper {
-    background: #000;
-  }
-  .productWrapper h1 {
-    background: #000;
-  }
-  .productWrapper ul.optionIconContainer {
-    background: #000;
-  }
-  .productWrapper .information .actionArea {
-    background: #000;
-  }
+    background: #000; }
+    .productWrapper h1 {
+      background: #000; }
+    .productWrapper ul.optionIconContainer {
+      background: #000; }
+    .productWrapper .information .actionArea {
+      background: #000; }
+  
   .pageHeaderSub .breadcrumbPC {
-    background: #000;
-  }
-  html.item.css .productWrapper {
-    background: #000;
-  }
+    background: #000; }
+  
+  html.item\.css .productWrapper {
+    background: #000; }
+  
   .episodeWrapper .itemWrapper .itemModule a.watched {
     color: #fff;
-    background-color: #000;
-  }
-  html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:hover,
-  html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:active,
-  .pageHeaderSub .breadcrumbPC ul li.current,
-  .pageHeaderSub .breadcrumbPC ul li.current a {
+    background-color: #000; }
+  
+  html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:hover, html.mouseDevice .pageHeaderSub .breadcrumbPC ul li.current a:active, .pageHeaderSub .breadcrumbPC ul li.current, .pageHeaderSub .breadcrumbPC ul li.current a {
+    color: #fff; }
+  
+  .episodeWrapper section h2 a, .outlineWrapper section h2 a, .castWrapper section h2 a {
     color: #fff;
-  }
-  .episodeWrapper section h2 a,
-  .outlineWrapper section h2 a,
-  .castWrapper section h2 a {
-    color: #fff;
-    background: #000;
-  }
-  .outlineWrapper,
-  .castWrapper {
-    background: #000;
-  }
+    background: #000; }
+  
+  .outlineWrapper, .castWrapper {
+    background: #000; }
+  
   .tagWrapper li {
-    background: #000;
-  }
+    background: #000; }
+  
   .moviePlayerModal .moviePlayerModalIn {
-    background: #000;
-  }
+    background: #000; }
   .moviePlayerModal .tumbnailContentsWrapper .tumbnailContainer {
-    background: #000;
-  }
-  html.toppage.css .pageHeader.top,
-  html.toppage.css .pageHeader.top .pageHeaderIn,
-  html.toppage.css .pageHeader.top .pageHeaderIn .information p.status,
-  html.toppage.css .onAirWrapper,
-  .informationWrapper,
-  .contentsWrapper#newArrival,
-  .contentsWrapper#ranking,
-  .contentsWrapper#recommend,
-  .contentsWrapper#rental,
-  .contentsWrapper#event1,
-  .contentsWrapper#event2,
-  .contentsWrapper#event3,
-  .contentsWrapper#event4,
-  .contentsWrapper.goodsTopWrapper,
-  .contentsWrapper#song,
-  .contentsWrapper#goods,
-  .contentsWrapper#seriesRelated,
-  .contentsWrapper#pvClip,
-  .contentsWrapper#popular,
-  html.mypage.css .dmarketWrapper {
-    background: #000;
-  }
-  .headerSubTab ul li {
-    background: #000;
-  }
-  .itemWrapper .itemModule.list section {
-    background: #000;
-  }
-  .itemWrapper .itemModule.list header {
-    background: #000;
-  }
-  .paging {
-    background: #000;
-  }
-  .createMyListDialog .createMyList,
-  .itemWrapper .itemModule.mylist.add .createMyList {
-    background: #000;
-  }
-  .btnArea.all .btnList {
-    background: #000;
-  }
-  .btnArea .btnList a:link,
-  html.mouseDevice .btnArea .btnList a:hover,
-  .btnArea .btnList a:visited,
-  html.mouseDevice .btnArea .btnList a:active {
+    background: #000; }
+  
+  html.toppage\.css .pageHeader.top, html.toppage\.css .pageHeader.top .pageHeaderIn, html.toppage\.css .pageHeader.top .pageHeaderIn .information p.status, html.toppage\.css .onAirWrapper, .informationWrapper, .contentsWrapper#newArrival, .contentsWrapper#ranking, .contentsWrapper#recommend, .contentsWrapper#rental, .contentsWrapper#event1, .contentsWrapper#event2, .contentsWrapper#event3, .contentsWrapper#event4, .contentsWrapper.goodsTopWrapper, .contentsWrapper#song, .contentsWrapper#goods, .contentsWrapper#seriesRelated, .contentsWrapper#pvClip, .contentsWrapper#popular, html.mypage\.css .dmarketWrapper {
+    background: #000; }
+  
+  html.mouseDevice .episodeWrapper section h2 a:hover, html.mouseDevice .outlineWrapper section h2 a:hover, html.mouseDevice .castWrapper section h2 a:hover {
     color: #fff;
-  }
+    background: #333; }
+  
+  .headerSubTab ul li {
+    background: #000; }
+  
+  .itemWrapper .itemModule.list section {
+    background: #000; }
+  .itemWrapper .itemModule.list header {
+    background: #000; }
+  
+  .paging {
+    background: #000; }
+  
+  .createMyListDialog .createMyList, .itemWrapper .itemModule.mylist.add .createMyList {
+    background: #000; }
+  
+  html.mouseDevice .itemWrapper .itemModule.mylist.add a:hover {
+    background-color: #666; }
+  
+  .btnArea.all .btnList {
+    background: #000; }
+  
+  .btnArea .btnList a:link, html.mouseDevice .btnArea .btnList a:hover, .btnArea .btnList a:visited, html.mouseDevice .btnArea .btnList a:active {
+    color: #fff; }
+  
+  .itemWrapper .itemModule.list, .itemWrapper .itemModule.mylist {
+    border: 1px solid #666; }
+  
+  html.mouseDevice .headerSubTab ul li a:hover {
+    color: #fff;
+    background: #333; }
+  
+  html.mouseDevice .headerSubTab ul li.current a:hover {
+    background: #333; }
+  
   .pageHeaderSub .searchWrapper {
-    background: #000;
-  }
+    background: #000; }
+  
   .headerInformation--goodsTop {
-    background: #000;
-  }
+    background: #000; }
+  
   html {
-    background-color: #000;
-  }
+    background-color: #000; }
+  
   body {
     color: #fff;
+    background: #000 !important; }
+  
+  a:link, a:active, a:visited {
+    color: #fff; }
+  
+  img {
+    opacity: 0.8 !important; }
+  
+  .contentsWrapper {
     background: #000;
-  }
-  a:link,
-  a:active,
-  a:visited {
-    color: #fff;
-  }
+    border: none; }
+  
+  /*# sourceMappingURL=style.css.map */
+  
 }
