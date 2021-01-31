@@ -121,6 +121,12 @@ body, button, input, textarea {
 .ui-menu .ui-menu-item a {
   background: #000; }
 
+.itemWrapper .itemModule.list .itemModuleIn + .check label .favoriteCount, .itemWrapper .itemModule.ranking .rankingFooter .iconContainer li.favoriteCount, .itemWrapper .itemModule.list .itemModuleIn .textContainer .favoriteCount, .favoriteButton .favoriteCount {
+  background-color: #000; }
+
+.itemWrapper .itemModule.list .itemModuleIn + .check label .favoriteCount::after, .itemWrapper .itemModule.ranking .rankingFooter .iconContainer li.favoriteCount::after, .itemWrapper .itemModule.list .itemModuleIn .textContainer .favoriteCount::after, .favoriteButton .favoriteCount::after {
+  background-color: #000; }
+
 html.mouseDevice .listGroup li a:hover {
   background: #333; }
 
@@ -195,6 +201,12 @@ html.mouseDevice .itemWrapper .itemModule.mylist.add a:hover {
 .itemWrapper .itemModule.list, .itemWrapper .itemModule.mylist {
   border: 1px solid #666; }
 
+.itemWrapper .itemModule.list .thumbnailContainer i {
+  filter: invert(100%); }
+
+.itemWrapper .itemModule.list.watched .thumbnailContainer .imgWrap16x9::after, .itemWrapper .itemModule.list a.watched .thumbnailContainer .imgWrap16x9::after {
+  background-color: #000; }
+
 html.mouseDevice .headerSubTab ul li a:hover {
   color: #fff;
   background: #333; }
@@ -224,5 +236,8 @@ img {
 .contentsWrapper {
   background: #000;
   border: none; }
+
+.pageHeader.top .pageHeaderIn .thumbnailContainer a i {
+  filter: invert(100%); }
 
 /*# sourceMappingURL=style.css.map */

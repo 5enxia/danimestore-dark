@@ -27,3 +27,7 @@ img {
   background: $bg-color;
   border: none;
 }
+
+.pageHeader.top .pageHeaderIn .thumbnailContainer a i {
+  filter: invert(100%);
+}

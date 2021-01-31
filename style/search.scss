@@ -37,6 +37,14 @@ body, button, input, textarea {
   background: $input-bg-color;
 }
 
+.itemWrapper .itemModule.list .itemModuleIn + .check label .favoriteCount, .itemWrapper .itemModule.ranking .rankingFooter .iconContainer li.favoriteCount, .itemWrapper .itemModule.list .itemModuleIn .textContainer .favoriteCount, .favoriteButton .favoriteCount {
+  background-color: $bg-color;
+}
+
+.itemWrapper .itemModule.list .itemModuleIn + .check label .favoriteCount::after, .itemWrapper .itemModule.ranking .rankingFooter .iconContainer li.favoriteCount::after, .itemWrapper .itemModule.list .itemModuleIn .textContainer .favoriteCount::after, .favoriteButton .favoriteCount::after {
+  background-color: $bg-color;
+}
+
 // hover
 html.mouseDevice .listGroup li a:hover {
   background: $hover-bg-color;

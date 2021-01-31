@@ -38,6 +38,14 @@ html.mouseDevice .itemWrapper .itemModule.mylist.add a:hover {
   border: 1px solid #666;
 }
 
+.itemWrapper .itemModule.list .thumbnailContainer i {
+  filter: invert(100%);
+}
+
+.itemWrapper .itemModule.list.watched .thumbnailContainer .imgWrap16x9::after, .itemWrapper .itemModule.list a.watched .thumbnailContainer .imgWrap16x9::after {
+  background-color: $bg-color;
+}
+
 // hover
 html.mouseDevice .headerSubTab ul li a:hover {
   color: $text-color;
