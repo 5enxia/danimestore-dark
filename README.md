@@ -38,9 +38,9 @@ Click Reat temporary addon button.
 
 Select 'path/to/manifest.json'
 
-### Download firefox addons page
+### Download from firefox addons page
 
-comming soon...
+[firefox addon](https://addons.mozilla.org/ja/firefox/addon/danimestore-dark/)
 
 ## LICENSE
 
