@@ -129,7 +129,7 @@ html.mouseDevice .searchBtnGroup li a:hover {
   background: #333; }
 
 .productWrapper {
-  background: #000; }
+  background: #000 !important; }
   .productWrapper h1 {
     background: #000; }
   .productWrapper ul.optionIconContainer {
@@ -138,9 +138,6 @@ html.mouseDevice .searchBtnGroup li a:hover {
     background: #000; }
 
 .pageHeaderSub .breadcrumbPC {
-  background: #000; }
-
-html.item\.css .productWrapper {
   background: #000; }
 
 .episodeWrapper .itemWrapper .itemModule a.watched {

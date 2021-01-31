@@ -1,7 +1,7 @@
 @import 'color.scss';
 
 .productWrapper {
-  background: $bg-color;
+  background: $bg-color !important;
 
   h1 {
     background: $bg-color;
@@ -19,11 +19,6 @@
 .pageHeaderSub .breadcrumbPC {
   background: $bg-color;
 }
-
-html.item\.css .productWrapper {
-  background: $bg-color;
-}
-
 
 .episodeWrapper .itemWrapper .itemModule a.watched {
   color: $link-text-color;
