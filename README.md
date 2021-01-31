@@ -1,12 +1,14 @@
 # danimestore-dark
 
 danimestore dark theme
+
 This project's goal is expantioning 'premire black' theme.
 This addon overwrite non dark components of 'premire balck' theme.
 
 d animestore has various 'kisekae' theme.
 'premire black' theme is official dark theme.
-But some components of the theme are not dark.Therefore, I made this addon.
+But some components of the theme are not dark.
+Therefore, I made this addon.
 
 'kisekae' theme means custom theme in japanese.
 
