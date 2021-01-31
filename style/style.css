@@ -11,7 +11,7 @@
   background: #000; }
 
 .dAccountHeaderIn .daccountIcon {
-  background-color: #fff; }
+  filter: invert(100%); }
 
 .dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {
   background-color: #000; }

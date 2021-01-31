@@ -18,7 +18,7 @@
 }
 
 .dAccountHeaderIn .daccountIcon {
-    background-color: $d-account-icon-bg-color;
+    filter: invert(100%);
 }
 
 .dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {

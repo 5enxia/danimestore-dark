@@ -2,7 +2,7 @@
 @name         danimestore dark
 @namespace    github.com/5enxia/danimestore-dark
 @homepageURL  https://github.com/5enxia/danimestore-dark
-@version      0.1.3
+@version      0.1.4
 @license      MIT License
 @author       5enxia
 @preprocessor stylus
@@ -21,7 +21,7 @@
   background: #000; }
 
 .dAccountHeaderIn .daccountIcon {
-  background-color: #fff; }
+  filter: invert(100%); }
 
 .dAccountHeaderIn .dAccountArea, .dAccountHeaderIn .daccountText, .dAccountHeaderIn .daccountUnissued, .dAccountHeaderIn .daccountLogin {
   background-color: #000; }
