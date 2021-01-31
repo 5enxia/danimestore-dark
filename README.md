@@ -34,7 +34,7 @@ git clone https://github.com/5enxia/danimestore-dark.git
 
 Visit [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
 
-Click Reat temporary addon button.
+Click load temporary addon button.
 
 Select 'path/to/manifest.json'
 
